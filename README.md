@@ -36,7 +36,7 @@ Make it fit perfectly to your server style.
 ## 🆘 Need Help?
 If you need help with setup, customization, or anything else, don’t hesitate to contact us:
 
-💬 **[Join our Discord](https://discord.gg/9TSsFfDYu5)**  
+💬 **[Join our Discord](https://discord.gg/9TSsFfDYu5](https://discord.gg/bkVh37cgFJ)**  
 
 ---
 
