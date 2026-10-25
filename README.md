@@ -7,7 +7,7 @@ A modern and clean loading screen featuring background character images, music c
 ## 🔍 Preview
 Click the link below to see the loading screen in action:
 
-👉 **[Watch Showcase](https://youtu.be/xcxLZHVxYYI)**  
+👉 **(Watch Showcase)[https://youtu.be/xcxLZHVxYYI]**  
 
 ---
 
